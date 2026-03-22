@@ -135,6 +135,14 @@ plt.show()
 ````
 
 ## Output:
-Show your results here
+
+<img width="799" height="666" alt="image" src="https://github.com/user-attachments/assets/6078968b-e571-4d64-b94a-a232c1baa441" />
+
+<img width="1025" height="532" alt="image" src="https://github.com/user-attachments/assets/63ed77e1-9b8c-4db7-844f-c779c4ebd87c" />
+
+<img width="978" height="489" alt="image" src="https://github.com/user-attachments/assets/57d94bb9-17c8-43b7-a2e5-7cfa4f4e2e54" />
+
+## Result:
+Thus, Building a Multilayer Perceptron (MLP) to classify handwritten digits in python has been successfully completed.
 
 
